@@ -9,4 +9,4 @@ Ai assistance, Thehive
 # Why did you choose this path? 
 Compliance is legally mandated. Even in a recession, companies must pass audits, so the job is highly secure.
 # What steps will you take to become successful in this field? 
-Learn the frameworks, get the right entry ticket.
+Learn the frameworks, get the right entry ticket, find a mentor and network 
